@@ -1,7 +1,7 @@
 # daily-step-count-analyzsis
 
 ## Overview
-This project is a comprehensive analysis of my daily step count data, aimed at uncovering patterns and trends related to my physical activity. Using data science techniques, I will process, analyze, and visualize my step count data to identify correlations with factors such as the day of the week, time of year, and weather conditions. 
+This project is a comprehensive analysis of my daily step count data, aimed at uncovering patterns and trends related to my physical activity. Using data science techniques, I will process, analyze, and visualize my step count data to identify correlations with factors such as the day of the week, and time of year. 
 
 ## Motivation
 The motivation behind this project is to better understand my activity habits and how external factors like weather and scheduling impact my physical activity. By analyzing this data, I aim to gain actionable insights into improving my consistency in maintaining a healthy lifestyle.
